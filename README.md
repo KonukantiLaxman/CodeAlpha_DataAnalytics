@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeAlpha Data Analytics Internship Project
 
 ## 📌 Project Overview
@@ -39,3 +40,6 @@ The analysis helps businesses understand sales performance and make data-driven 
 ## 🔗 Author
 **Laxman Konukati**  
 Data Science Student  
+=======
+# CodeAlpha_DataAnalytics
+>>>>>>> 11f20fbdcd34236d7067c6a89147914d9d444270
