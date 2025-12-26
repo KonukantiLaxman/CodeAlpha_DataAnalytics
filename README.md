@@ -39,6 +39,5 @@ The analysis helps businesses understand sales performance and make data-driven 
 
 ## 🔗 Author
 **Laxman Konukati**  
-Data Science Student  
 =======
 # CodeAlpha_DataAnalytics
